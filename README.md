@@ -24,7 +24,7 @@ The project architecture consists of several AWS services, emulated locally usin
 ----
 Here's the web application in action:
 
-[uptime-monitor-using-LocalStack-demo.webm](https://github.com/user-attachments/assets/5bed57e8-e64e-4105-bafd-635dfad045f0)
+[uptime-monitor-using-LocalStack-demo.webm](https://github.com/user-attachments/assets/7c8ce596-032a-4a3a-94c3-fed7df368e38)
 
 This project runs entirely in your local environment, using LocalStack to simulate AWS services.
 
